@@ -19,11 +19,13 @@
 
 ### 💠 Connect me :
 
+<a href = "https://img.shields.io/badge/muzahidulislamsaki@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:muzahidulislamsaki@gmail.com)](mailto:muzahidulislamsaki@gmail.com" target="_blank" title="Gmail"><img src = "https://img.icons8.com/color/48/gmail-new.png" width = "40px"/></a>
 <a href = "https://www.facebook.com/muzahidulislam.saki/" target="_blank" title="Facebook"><img src ="https://img.icons8.com/fluency/256/facebook.png" width ="40px"/></a>
-<a href = "https://www.instagram.com/muzahidul_islam_saki/" target="_blank"><img src ="https://img.icons8.com/fluency/256/instagram-new.png" width ="40px"/></a>
-<a href = "https://www.linkedin.com/in/muzahidul-islam-saki-2835a6260/"><img src ="https://img.icons8.com/fluency/256/linkedin.png" width ="40px"/></a>
-<a href = "https://twitter.com/SakiMuzahidul"><img src ="https://img.icons8.com/fluency/256/twitter.png" width ="40px"/></a>
-<a href = "https://codeforces.com/profile/saki_vhay"><img src = "https://img.icons8.com/external-tal-revivo-color-tal-revivo/256/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" width = "40px"/></a>
+<a href = "https://www.instagram.com/muzahidul_islam_saki/" target="_blank" title="Instagram"><img src ="https://img.icons8.com/fluency/256/instagram-new.png" width ="40px"/></a>
+<a href = "https://www.linkedin.com/in/muzahidul-islam-saki-2835a6260/" target="_blank" title="Linkedin"><img src ="https://img.icons8.com/fluency/256/linkedin.png" width ="40px"/></a>
+<a href = "https://twitter.com/SakiMuzahidul" target="_blank" title="Twitter"><img src ="https://img.icons8.com/fluency/256/twitter.png" width ="40px"/></a>
+<a href = "https://codeforces.com/profile/saki_vhay" target="_blank" title="CodeForces"><img src = "https://img.icons8.com/external-tal-revivo-color-tal-revivo/256/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" width = "40px"/></a>
+
 
 
 
