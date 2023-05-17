@@ -1,16 +1,16 @@
-### Hi there 👋
+### About Me
+- - [muzahidulsaki.me](https://muzahidulsaki.me/)
+- I’m currently studing on Software Engineer
+- I communicate effectively in a team setting
+- Ask me about anything, I am happy to help
+- How to reach me: [![Gmail Badge](https://img.shields.io/badge/muzahidulislamsaki@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:muzahidulislamsaki@gmail.com)](mailto:muzahidulislamsaki@gmail.com)
 
-<!--
-**muzahidulsaki/muzahidulsaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile views](https://gpvc.arturio.dev/muzahidulsaki)
 
-Here are some ideas to get you started:
+📈 **My GitHub Stats**
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=muzahidulsaki&count_private=ture&show_icons=true&theme=gotham" alt="shimanto-rehman" height="50%" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzahidulsaki&layout=compact&theme=gotham" alt="languages" height="50%" width="41.7%"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
