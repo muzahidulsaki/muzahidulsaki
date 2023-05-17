@@ -14,7 +14,7 @@
 📈 **My GitHub Stats**
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=muzahidulsaki&count_private=ture&show_icons=true&theme=gotham" alt="shimanto-rehman" height="50%" width="50%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzahidulsaki&layout=compact&theme=gotham" alt="languages" height="50%" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzahidulsaki&layout=compact&theme=gotham" alt="languages" height="50%" width="41.7%"/>
 </p>
 
 
