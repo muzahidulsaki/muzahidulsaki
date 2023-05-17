@@ -1,5 +1,5 @@
 ### About Me
-- - [muzahidulsaki.me](https://muzahidulsaki.me/)
+- [muzahidulsaki.me](https://muzahidulsaki.me/)
 - I’m currently studing on Software Engineer
 - I communicate effectively in a team setting
 - Ask me about anything, I am happy to help
