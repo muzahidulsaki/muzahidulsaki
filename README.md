@@ -5,7 +5,15 @@
 - Ask me about anything, I am happy to help.
 - How to reach me: [![Gmail Badge](https://img.shields.io/badge/muzahidulislamsaki@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:muzahidulislamsaki@gmail.com)](mailto:muzahidulislamsaki@gmail.com)
 
-
+<details>
+  <summary><b>Codeforces</b></summary>
+    <ul type="none" align="center">
+      <li><br></li>
+      <li>
+        <p><a href="https://codeforces.com/profile/saki_vhay"><img width="380px" src="https://codeforces-readme-stats.vercel.app/api/card?username=saki_vhay&theme=dark"/></a> <a href="https://github.com/muzahidulsaki"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=muzahidulsaki&show_icons=true&theme=github_dark&count_private=true&hide_border=false&layout=donut&langs_count=15&hide=plsql" width="365px"></a></p>
+      </li> 
+    </ul>
+</details>
 
 
 
