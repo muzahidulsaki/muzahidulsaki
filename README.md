@@ -10,7 +10,7 @@
     <ul type="none" align="center">
       <li><br></li>
       <li>
-        <p><a href="https://codeforces.com/profile/saki_vhay"><img width="380px" src="https://codeforces-readme-stats.vercel.app/api/card?username=saki_vhay&theme=dark"/></a> <a href="https://github.com/muzahidulsaki"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=muzahidulsaki&show_icons=true&theme=github_dark&count_private=true&hide_border=false&layout=donut&langs_count=15&hide=plsql" width="365px"></a></p>
+        <p><a href="https://codeforces.com/profile/saki_vhay"><img width="340px" src="https://codeforces-readme-stats.vercel.app/api/card?username=saki_vhay&theme=dark"/></a> </p>
       </li> 
     </ul>
 </details>
