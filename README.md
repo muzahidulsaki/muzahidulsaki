@@ -10,7 +10,7 @@
     <ul type="none" align="center">
       <li><br></li>
       <li>
-        <p><a href="https://codeforces.com/profile/saki_vhay"><img height="15%" width="30%" src="https://codeforces-readme-stats.vercel.app/api/card?username=saki_vhay&theme=dark"/></a> </p>
+        <p><a href="https://codeforces.com/profile/saki_vhay"><img width="300px" src="https://codeforces-readme-stats.vercel.app/api/card?username=saki_vhay&theme=dark"/></a> </p>
       </li> 
     </ul>
 </details>
