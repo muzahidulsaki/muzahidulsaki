@@ -12,7 +12,7 @@
       <li>
         <p style="text-align: left;">
   <a href="https://codeforces.com/profile/saki_vhay">
-    <img width="250px" src="https://codeforces-readme-stats.vercel.app/api/card?username=saki_vhay&theme=dark" />
+    <img width="270px" src="https://codeforces-readme-stats.vercel.app/api/card?username=saki_vhay&theme=dark" />
   </a>
 </p>
       </li> 
