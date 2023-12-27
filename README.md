@@ -21,7 +21,7 @@
 📈 **My GitHub Stats**
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=muzahidulsaki&count_private=ture&show_icons=true&theme=transparent&bg_color=00000000" alt="shimanto-rehman" height="45%" width="40%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzahidulsaki&layout=compact&theme=transparent&bg_color=00000000" alt="languages" height=60"%" width="41%"/>
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muzahidulsaki&theme=dark&layout=compact&align=right&width=40%)](https://github.com/muzahidulsaki/github-readme-stats)
 </p>
 
 ### 💠 Connect me :
