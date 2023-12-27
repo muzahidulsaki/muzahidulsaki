@@ -20,8 +20,8 @@
 
 📈 **My GitHub Stats**
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=muzahidulsaki&count_private=ture&show_icons=true&theme=transparent&bg_color=00000000" alt="shimanto-rehman" height="45%" width="40%"/>
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muzahidulsaki&theme=dark&layout=compact&align=right&width=40%)](https://github.com/muzahidulsaki/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=muzahidulsaki&count_private=ture&show_icons=true&theme=&bg_color=00000000" alt="shimanto-rehman" height="45%" width="40%"/>
+   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=muzahidulsaki&show_icons=true&theme=transparent&count_private=true&hide_border=false&layout=donut&langs_count=5&hide=plsql" width = "39%">
 </p>
 
 ### 💠 Connect me :
