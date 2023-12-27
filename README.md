@@ -20,7 +20,7 @@
 
 📈 **My GitHub Stats**
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=muzahidulsaki&count_private=ture&show_icons=true&theme=&bg_color=00000000" alt="shimanto-rehman" height="35%" width="35%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=muzahidulsaki&count_private=ture&show_icons=true&theme=&bg_color=00000000" alt="shimanto-rehman" height="38%" width="33%"/>
    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=muzahidulsaki&langs_count=10&theme=tokyonight&layout=compact&hide=html"/>
 </p>
 
