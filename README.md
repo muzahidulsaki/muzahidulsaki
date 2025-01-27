@@ -31,7 +31,7 @@
 <a href = "https://www.instagram.com/muzahidul_islam_saki/" target="_blank" title="Instagram"><img src ="https://img.icons8.com/fluency/256/instagram-new.png" width ="40px"/></a>
 <a href = "https://www.linkedin.com/in/muzahidul-islam-saki-2835a6260/" target="_blank" title="Linkedin"><img src ="https://img.icons8.com/fluency/256/linkedin.png" width ="40px"/></a>
 <a href = "https://twitter.com/SakiMuzahidul" target="_blank" title="Twitter"><img src ="https://img.icons8.com/fluency/256/twitter.png" width ="40px"/></a>
-<a href="https://www.threads.net/@muzahidul_islam_saki"  target="_blank" title="Threads"><img src="https://www.citypng.com/public/uploads/preview/threads-social-media-white-logo-icon-hd-png-735811696672474wx9bzdjwmv.png" width = "35px"/></a>
+<a href="https://www.threads.net/@muzahidul_islam_saki"  target="_blank" title="Threads"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/threads-white-icon.png" width = "35px"/></a>
 
 
 
